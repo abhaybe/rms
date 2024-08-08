@@ -12,3 +12,5 @@ This is a RMS with the following features:
 3)An interface for any user to view data, like the menu and prices of raw materials.
 
 4)A password protected interface for a user to make changes to the SQL code (say to add new menu items or raw materials) directly.
+
+CONTIBUTORS: Abhay Bestrapalli, Anant Tewari, Ajay Bestrapalli
